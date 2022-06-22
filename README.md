@@ -1,2 +1,0 @@
-# javacalculator
-git init
